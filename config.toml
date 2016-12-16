@@ -1,4 +1,4 @@
-baseurl = "http://roboswift.io"
+baseurl = "http://roboswift.io/"
 languageCode = "en-us"
 title = "Roboswift"
 theme = "hugo-type-theme"
@@ -16,7 +16,7 @@ paginate = 10
 	keywords = ""
 	# Either show custom avatar on the top
 	# left by adding the filename in below
-	avatar = "img/avatar.png"
+	avatar = "/img/avatar.png"
 	# or use Gravatar by adding your email address to generate a unique avatar
 	# gravatar = "miguel@miqu.me"
 	headerText = "Swift love through DIY projects"
